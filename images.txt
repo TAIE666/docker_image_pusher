@@ -1,2 +1,2 @@
-coudou
+ollama
 ollama/ollama:0.11.5-rc2-rocm
